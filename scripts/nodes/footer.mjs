@@ -5,6 +5,7 @@ export function footer() {
     tagName: 'footer',
     properties: {
       class: 'footer-wrap',
+      
     },
     children: [
       {
